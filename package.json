@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.13.0"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5",
+    "yarn": "^1.22.22"
+  }
+}
